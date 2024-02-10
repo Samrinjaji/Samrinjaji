@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me 
+- 📫 How to reach me https://web.facebook.com/samysoweirdo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
