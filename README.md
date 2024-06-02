@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrinjaji&label=Profile%20views&color=0e75b6&style=flat" alt="samrinjaji" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Programming**
-- 👀 I’m interested in Web Development**
-- 💞️ I’m looking to collaborate on Web Development**
-- 📫 How to reach me **Samrinjaji16@gmail.com**
+- 🌱 I’m currently learning Javascript, Programming
+- 👀 I’m interested in Web Development
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me Samrinjaji16@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
