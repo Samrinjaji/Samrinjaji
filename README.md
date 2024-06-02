@@ -3,7 +3,7 @@
 - 👋 Hi, I'm Samrin Jaji
 - 🌱 I’m currently learning <strong>Javascript, Programming </strong>
 - 👀 I’m interested in <strong>Web Development</strong>
-- 💞️ I’m looking to collaborate on <strong>Web Development</strong
+- 💞️ I’m looking to collaborate on <strong>Web Development</strong>
 
 ### Socials: 
 <a href="https://www.instagram.com/samysoweird/"><img src="https://img.shields.io/badge/samysoweird-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/samrin-jaji-57577a288/"><img src="https://img.shields.io/badge/samrinjaji-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/Samrinjajii"><img src="https://img.shields.io/badge/Samrinjaji-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
