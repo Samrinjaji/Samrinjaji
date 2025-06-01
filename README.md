@@ -1,7 +1,7 @@
 [![@Samrinjaji](https://raw.githubusercontent.com/samrinjaji/samrinjaji/main/assets/programming.gif)](https://www.facebook.com/Samrinjajii)
 
 - 👋 Hi, I'm Samrin Jaji
-- 🌱 I’m currently learning <strong>Javascript, Programming </strong>
+- 🌱 I’m currently learning <strong>Programming </strong>
 - 👀 I’m interested in <strong>Web Development</strong>
 - 💞️ I’m looking to collaborate on <strong>Web Development</strong>
 
