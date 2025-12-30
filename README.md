@@ -1,4 +1,4 @@
-[![@Samrinjaji]([https://raw.githubusercontent.com/samrinjaji/samrinjaji/main/assets/programming.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV2eWszb3d5dDU2dzBtcm5uOTd3djkxbjBodndraHBrMmNrOTAwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V7XTwbE7Dm3AWHwAdG/giphy.gif))](https://www.facebook.com/Samrinjajii)
+[![@Samrinjaji]([https://raw.githubusercontent.com/samrinjaji/samrinjaji/main/assets/giphy.gif](https://www.facebook.com/Samrinjajii)
 
 🚀About Me:
 <br><br>   🎓 Bachelor of Science in Information Technology<br>    💻 Interested in Web Development, JavaScript, and System Development<br>    🏢 Former IT Intern at OWWA – worked on web-based systems<br>    🌱 Currently learning and improving my Backend and web skills<br>    💞️ I’m looking to collaborate on Web Development<br>    👀 I’m interested in Web Development
