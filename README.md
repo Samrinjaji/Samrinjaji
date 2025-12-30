@@ -1,4 +1,5 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzanhoaHpwZTdnMzBjaTgyZHVwaGN5dTg2cXJ5NnB5Y2lmeTEycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y029AnJtAQhO5Jm9Ed/giphy.gif
+![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzanhoaHpwZTdnMzBjaTgyZHVwaGN5dTg2cXJ5NnB5Y2lmeTEycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y029AnJtAQhO5Jm9Ed/giphy.gif)
+
 
 🚀About Me:
 <br><br>   🎓 Bachelor of Science in Information Technology<br>    💻 Interested in Web Development, JavaScript, and System Development<br>    🏢 Former IT Intern at OWWA – worked on web-based systems<br>    🌱 Currently learning and improving my Backend and web skills<br>    💞️ I’m looking to collaborate on Web Development<br>    👀 I’m interested in Web Development
