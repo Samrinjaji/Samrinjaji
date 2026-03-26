@@ -7,21 +7,6 @@
 
 I'm a self-driven frontend developer who loves building modern, responsive websites with smooth interactions and clean UI.
 
-I focus on:
-- ✨ Clean and minimal design
-- 📱 Mobile-first responsive layouts
-- ⚡ Smooth animations and transitions
-- 🧠 Writing organized, maintainable code
-
-Currently leveling up my skills in JavaScript and preparing to dive deeper into React and advanced frontend architecture.
-
-When I’m not coding, I’m refining my workflow, exploring Linux, or improving my development environment.
-
----
-
-### 🛠 Tech I Use
-HTML • CSS • JavaScript • Git • GitHub • Linux
-
 ---
 
 🚀 Always learning. Always building.
